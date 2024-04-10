@@ -1,0 +1,12 @@
+requirments:
+-os
+-pickle
+-mediapipe
+-cv2
+-matplotlib.pyplot
+-numpy
+-pyplot
+-time
+-RandomForestClassifier
+-train_test_split
+-accuracy_score
